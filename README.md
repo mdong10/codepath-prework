@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-![](https://github.com/mdong10/codepath-prework/Kapture.gif)
+![](https://github.com/mdong10/codepath-prework/blob/main/Kapture.gif)
 
 ## App Brainstorming (Step 4)
 
